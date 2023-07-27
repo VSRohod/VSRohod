@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-<img width="70%" height="70%"  src="[https://tenor.com/bQ6Vf.gif](https://tenor.com/pt-BR/view/scaler-create-impact-dog-coding-programming-gif-25011983)"/>
+<div class="tenor-gif-embed" data-postid="25011983" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <br>
