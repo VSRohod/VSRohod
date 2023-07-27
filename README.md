@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-<img width="70%" height="70%"  src="https://tenor.com/bQ6Vf.gif"/>
+<img width="70%" height="70%"  src="[https://tenor.com/bQ6Vf.gif](https://tenor.com/pt-BR/view/scaler-create-impact-dog-coding-programming-gif-25011983)"/>
 </div>
 
 <br>
