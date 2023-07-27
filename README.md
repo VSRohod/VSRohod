@@ -1,6 +1,8 @@
 ## <h1>Olá, sou Victor Santos Rohod!💻</h1>
-🇧🇷 Ex-competidor da WorldSkills 2021\2022 #017 - Web Design <br>
-👨‍🏫 Professor de Front-End
+<ul>
+  <li>🇧🇷 Ex-competidor da WorldSkills 2021\2022 #017 - Web Design </li>
+  <li>👨‍🏫 Instrutor de Front-End SENAI</li>
+</ul>
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VSRohod&show_icons=true&theme=radical"/>
