@@ -16,10 +16,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Lattes-blue?style=for-the-badge&logo"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-ORCID-green?style=for-the-badge&logo"/></a>
-     <a href="#" target="_blank"><img src="https://img.shields.io/badge/-SKOOB-blue?style=for-the-badge&logo"/></a>
-
 </div>
   <br>
 <div>
