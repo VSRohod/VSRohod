@@ -24,6 +24,11 @@
   <h2>Linguagens e Frameworks</h2>
   <img src=https://progress-bar.dev/90?title=HTML />
   <img src=https://progress-bar.dev/90?title=CSS />
-  <img src=https://progress-bar.dev/60?title=JAVASCRIPT />
-  <img src=https://progress-bar.dev/60?title=BOOTSTRAP  />
+  <img src=https://progress-bar.dev/70?title=JAVASCRIPT />
+  <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
+  <img src=https://progress-bar.dev/20?title=REACT  />
+  <img src=https://progress-bar.dev/40?title=ANGULAR  />
+  <img src=https://progress-bar.dev/40?title=LARAVEL  />
+  <img src=https://progress-bar.dev/70?title=PHP  />
+  <img src=https://progress-bar.dev/50?title=SQL  />
 </div>
