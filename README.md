@@ -4,6 +4,13 @@
   <li>👨‍🏫 Instrutor de Front-End SENAI</li>
 </ul>
 
+<h2>LISTAS DE REPOSITÓRIOS</h2>
+<ul>
+  <a href="https://github.com/stars/VSRohod/lists/ws2021-2022"><li>WorldSkills Projects 🗺️</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/games"><li>Gaming Projects 🎮</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/escola"><li>School Repositories 👨‍🏫</li></a>
+</ul>
+
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VSRohod&show_icons=true&theme=radical"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRohod&layout=compact&theme=radical"/>
