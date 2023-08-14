@@ -12,8 +12,8 @@
 </ul>
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.sigma-five.vercel.app/api?username=VSRohod&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=VSRohod&layout=compact&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vsrohod&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsrohod&layout=compact&theme=radical"/>
 </div>
 <br>
 <div align="center">
