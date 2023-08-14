@@ -11,6 +11,11 @@
   <a href="https://github.com/stars/VSRohod/lists/escola"><li>School Repositories 👨‍🏫</li></a>
 </ul>
 
+<div align="center">
+    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=VSRohod&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
+    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRohod&layout=compact&langs_count=7&theme=react"/>
+</div>
+
 <br>
 <div align="center">
 <img src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
