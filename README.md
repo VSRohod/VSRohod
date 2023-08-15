@@ -6,9 +6,10 @@
 
 <h2>LISTAS DE REPOSITÓRIOS</h2>
 <ul>
-  <a href="https://github.com/stars/VSRohod/lists/ws2021-2022"><li>WorldSkills Projects 🗺️</li></a>
-  <a href="https://github.com/stars/VSRohod/lists/games"><li>Gaming Projects 🎮</li></a>
-  <a href="https://github.com/stars/VSRohod/lists/escola"><li>School Repositories 👨‍🏫</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/ws2021-2022"><li>Projetos da WorldSkills 🗺️</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/games"><li>Projetos de jogos 🎮</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/escola"><li>Repositórios de escola (Professor) 👨‍🏫</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/estudos-cursos"><li>Repositórios de estudos 📚</li></a>
 </ul>
 
 <div align="center">
