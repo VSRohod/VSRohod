@@ -40,3 +40,21 @@
   <img src=https://progress-bar.dev/70?title=PHP  />
   <img src=https://progress-bar.dev/50?title=SQL  />
 </div>
+
+<div>
+  <h2>CERTIFICADOS</h2>
+  <h4>SENAI</h4>
+  <ul>
+    <a href="https://github.com/VSRohod/certificados/blob/main/SENAI/Tecnologia%20WEB.jpeg"><li>Seletiva WorldSkills 2022 - Ocupação Tecnologias Web, Competidor</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/SENAI/Web%20Design%20frente.jpeg"><li>Web Design seletiva WorldSkills 2021 - 1020 horas</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/SENAI/Desenvolvedor%20PHP%20%20frente.jpeg"><li>Desenvolvedor PHP - 200 horas</li></a>
+  </ul>
+  <h4>UDEMY</h4>
+  <ul>
+    <a href="https://github.com/VSRohod/certificados/blob/main/Udemy/figma%20design%20de%20interfaces%20do%20zero%20ao%20profissional.pdf"><li>Figma Design de interfaces do zero ao profissional - 13.5 horas</li></a>
+  </ul>
+  <h4>ALURA</h4>
+  <ul>
+    <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript_%20manipulando%20o%20DOM%20-%20Alura.pdf"><li>Javascript: Manipulando o DOM - 6 horas</li></a>
+  </ul>
+</div>
