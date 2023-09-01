@@ -15,7 +15,8 @@
 <div align="center">
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=VSRohod&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRohod&layout=compact&langs_count=7&theme=react"/>
-    [![VSRohod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VSRohod)](https://github.com/VSRohod/github-readme-stats)/>
+    [![Spotify](https://novatorem-git-main-vsrohod.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/DarkamiGem)
+    <img align="center" height="190em" src="?username="/>
 </div>
 
 <br>
