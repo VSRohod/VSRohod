@@ -13,10 +13,13 @@
 </ul>
 
 <div align="center">
+  <h3>ESTATÍSTICAS 📈</h3>
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=VSRohod&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRohod&layout=compact&langs_count=7&theme=react"/>
-  <h3>TEMPO DE CÓDIGO</h3>
+  <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
+  
+  <h3>OUVINDO NO SPOTIFY 🎧</h3>
   
    [![Spotify](https://novatorem-hkla5dyln-vsrohod.vercel.app/api/spotify)](https://open.spotify.com/user/4ozitey4caffdh75u4smw7t4y)
 </div>
@@ -28,6 +31,7 @@
 
 <br>
 <div>
+  <h3>REDES SOCIAIS E CONTATOS ✉️</h3>
   <a href="https://www.instagram.com/victor_rohod/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/victor-santos-rohod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:victorsantosrohod@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
