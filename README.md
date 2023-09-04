@@ -17,7 +17,8 @@
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRohod&layout=compact&langs_count=7&theme=react"/>
   <h3>TEMPO DE CÓDIGO</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
-   [![Spotify](https://novatorem-fwrv5nas8-vsrohod.vercel.app/api/spotify)](https://open.spotify.com/user/DarkamiGem)
+  
+   [![Spotify](https://novatorem-hkla5dyln-vsrohod.vercel.app/api/spotify)](https://open.spotify.com/user/4ozitey4caffdh75u4smw7t4y)
 </div>
 
 <br>
