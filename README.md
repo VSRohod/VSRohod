@@ -16,6 +16,28 @@
   <h3>ESTATÍSTICAS 📈</h3>
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=VSRohod&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSRohod&layout=compact&langs_count=7&theme=react"/>
+
+  <h3>VEZES PERFIL VISITADO 👀</h3>
+ <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=VSRohod&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+  
   <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
   
