@@ -21,8 +21,18 @@
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
   
   <h3>OUVINDO NO SPOTIFY 🎧</h3>
+  <table>
+  <tr>
+  <td align="center">
   
+  ![Camada 0](https://github.com/VSRohod/VSRohod/assets/89645335/c118e8b6-5c62-4e52-991c-09b2bc960164)
+  </td>
+  <td align="center">
+    
    [![Spotify](https://novatorem-hkla5dyln-vsrohod.vercel.app/api/spotify)](https://open.spotify.com/user/4ozitey4caffdh75u4smw7t4y)
+  </td>
+   </tr>
+   </table> 
 </div>
 
 <br>
