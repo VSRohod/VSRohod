@@ -24,9 +24,12 @@
   
   <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
-  
-  <h3>OUVINDO NO SPOTIFY 🎧</h3>
+
+   <hr>
   <table>
+  <tr>
+    <th colspan="2"><h3>OUVINDO NO SPOTIFY 🎧</h3></th>
+  </tr>
   <tr>
   <td align="center">
   
@@ -37,7 +40,8 @@
    [![Spotify](https://novatorem-hkla5dyln-vsrohod.vercel.app/api/spotify)](https://open.spotify.com/user/4ozitey4caffdh75u4smw7t4y)
   </td>
    </tr>
-   </table> 
+   </table>
+   <hr>
 </div>
 
 <br>
@@ -91,13 +95,6 @@
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=VSRohod&style=for-the-badge&color=brightgreen"> </a>
