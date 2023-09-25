@@ -33,7 +33,8 @@
   <tr>
   <td align="center">
   
-  ![Camada 0](https://github.com/VSRohod/VSRohod/assets/89645335/c118e8b6-5c62-4e52-991c-09b2bc960164)
+  ![nick-wilde](https://github.com/VSRohod/VSRohod/assets/89645335/e0e57bcd-1336-49c6-9299-1208901b0fa4)
+
   </td>
   <td align="center">
     
@@ -109,6 +110,7 @@
   </ul>
 
   <div align="center">
-  ![nick-wilde-zootopia](https://github.com/VSRohod/VSRohod/assets/89645335/00ee2ca8-5238-47cf-9c96-147fa27e8b6a)
+    
+  ![nick-wilde-zootopia](https://github.com/VSRohod/VSRohod/assets/89645335/192253d0-1cb6-489f-bb14-3fad466c9abe)
   </div>
 
