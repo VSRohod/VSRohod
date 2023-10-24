@@ -91,7 +91,10 @@
   <h4>ALURA</h4>
   <ul>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript_%20manipulando%20o%20DOM%20-%20Alura.pdf"><li>Javascript: Manipulando o DOM - 6 horas</li></a>
-</div>
+<a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript%20programando%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Alura.pdf"><li>JavaScript: programando a Orientação a Objetos - 10 horas</li></a>
+  
+ 
+  </div>
 
  <hr>   
 <h3>VEZES PERFIL VISITADO 👀</h3>
