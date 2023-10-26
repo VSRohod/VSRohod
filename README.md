@@ -93,7 +93,7 @@
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript_%20manipulando%20o%20DOM%20-%20Alura.pdf"><li>Javascript: Manipulando o DOM - 6 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript%20programando%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Alura.pdf"><li>JavaScript: programando a Orientação a Objetos - 10 horas</li></a>
     <h3><a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Forma%C3%A7%C3%A3o%20Bootstrap%205_%20desenvolvimento%20de%20websites%20responsivos%20e%20atraentes%20-%20Alura.pdf">🏆Formação ➡️ Bootstrap 5: desenvolvimento de websites responsivos e atraentes - 15 horas</a></h3> 
-    <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap5_%20crie%20uma%20landing%20page%20responsiva%20-%20Alura.pdf"><li>Bootstrap5: crie uma landing page responsiva - 8 horas</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap5_%20crie%20uma%20landing%20page%20responsiva%20-%20Alura.pdf"><li>Bootstrap 5: crie uma landing page responsiva - 8 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap%205_%20novos%20recursos%20e%20pr%C3%A1ticas%20recomendadas%20de%20HTML%2C%20CSS%20e%20JavaScript%20-%20Alura.pdf"><li>Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript - 6 horas</li></a>
 
     
