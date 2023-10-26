@@ -90,6 +90,7 @@
   </ul>
   <h4>ALURA</h4>
   <ul>
+    <a href="[https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript_%20manipulando%20o%20DOM%20-%20Alura.pdf](https://github.com/VSRohod/certificados/blob/main/Alura/Javascript/Victor%20Santos%20Rohod%20-%20Curso%20EcmaScript%208%20e%209_%20novas%20formas%20de%20escrever%20em%20JavaScript%20-%20Alura.pdf)"><li>EcmaScript 8 e 9: novas formas de escrever em JavaScript - 6 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript_%20manipulando%20o%20DOM%20-%20Alura.pdf"><li>Javascript: Manipulando o DOM - 6 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript%20programando%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Alura.pdf"><li>JavaScript: programando a Orientação a Objetos - 10 horas</li></a>
     <h3><a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Forma%C3%A7%C3%A3o%20Bootstrap%205_%20desenvolvimento%20de%20websites%20responsivos%20e%20atraentes%20-%20Alura.pdf">🏆Formação ➡️ Bootstrap 5: desenvolvimento de websites responsivos e atraentes - 15 horas</a></h3> 
