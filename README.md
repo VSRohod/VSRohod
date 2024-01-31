@@ -98,7 +98,6 @@
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap%205_%20novos%20recursos%20e%20pr%C3%A1ticas%20recomendadas%20de%20HTML%2C%20CSS%20e%20JavaScript%20-%20Alura.pdf"><li>Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript - 6 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20começando%20com%20a%20linguagem%20-%20Alura.pdf"><li>Python: começando com a linguagem - 12 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20crie%20a%20sua%20primeira%20aplicação%20-%20Alura.pdf"><li>Python: crie a sua primeira aplicação - 8 horas</li></a>
-    Python: crie a sua primeira aplicação
 
 
     
