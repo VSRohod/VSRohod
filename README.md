@@ -91,16 +91,16 @@
   <h4>ALURA</h4>
   <ul>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Javascript/Victor%20Santos%20Rohod%20-%20Curso%20EcmaScript%208%20e%209_%20novas%20formas%20de%20escrever%20em%20JavaScript%20-%20Alura.pdf"><li>EcmaScript 8 e 9: novas formas de escrever em JavaScript - 6 horas</li></a>
-    <hr>
+    <br>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript_%20manipulando%20o%20DOM%20-%20Alura.pdf"><li>Javascript: Manipulando o DOM - 6 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Victor%20Santos%20Rohod%20-%20Curso%20JavaScript%20programando%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Alura.pdf"><li>JavaScript: programando a Orientação a Objetos - 10 horas</li></a>
-    <hr>
+    <br>
     <h3><a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Forma%C3%A7%C3%A3o%20Bootstrap%205_%20desenvolvimento%20de%20websites%20responsivos%20e%20atraentes%20-%20Alura.pdf">🏆Formação ➡️ Bootstrap 5: desenvolvimento de websites responsivos e atraentes - 15 horas</a></h3> 
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap5_%20crie%20uma%20landing%20page%20responsiva%20-%20Alura.pdf"><li>Bootstrap 5: crie uma landing page responsiva - 8 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap%205_%20novos%20recursos%20e%20pr%C3%A1ticas%20recomendadas%20de%20HTML%2C%20CSS%20e%20JavaScript%20-%20Alura.pdf"><li>Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript - 6 horas</li></a>
-    <hr>
+    <br>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20começando%20com%20a%20linguagem%20-%20Alura.pdf"><li>Python: começando com a linguagem - 12 horas</li></a>
-    <hr>
+    <br>
     <h3><a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Formação%20Aprenda%20a%20programar%20em%20Python%20com%20Orientação%20a%20Objetos%20-%20Alura.pdf">🏆Formação ➡️ Aprenda a programar em Python com Orientação a Objetos - 25 horas</a></h3> 
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20crie%20a%20sua%20primeira%20aplicação%20-%20Alura.pdf"><li>Python: crie a sua primeira aplicação - 8 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20aplicando%20a%20Orientação%20a%20Objetos%20-%20Alura.pdf"><li>Python: aplicando a orientação a objetos - 6 horas</li></a>
