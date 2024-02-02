@@ -97,8 +97,10 @@
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap5_%20crie%20uma%20landing%20page%20responsiva%20-%20Alura.pdf"><li>Bootstrap 5: crie uma landing page responsiva - 8 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Bootstrap5/Victor%20Santos%20Rohod%20-%20Curso%20Bootstrap%205_%20novos%20recursos%20e%20pr%C3%A1ticas%20recomendadas%20de%20HTML%2C%20CSS%20e%20JavaScript%20-%20Alura.pdf"><li>Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript - 6 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20começando%20com%20a%20linguagem%20-%20Alura.pdf"><li>Python: começando com a linguagem - 12 horas</li></a>
+    <h3><a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Formação%20Aprenda%20a%20programar%20em%20Python%20com%20Orientação%20a%20Objetos%20-%20Alura.pdf">🏆Formação ➡️ Aprenda a programar em Python com Orientação a Objetos - 25 horas</a></h3> 
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20crie%20a%20sua%20primeira%20aplicação%20-%20Alura.pdf"><li>Python: crie a sua primeira aplicação - 8 horas</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20aplicando%20a%20Orientação%20a%20Objetos%20-%20Alura.pdf"><li>Python: aplicando a orientação a objetos - 6 horas</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Python/Victor%20Santos%20Rohod%20-%20Curso%20Python_%20avance%20na%20Orientação%20a%20Objetos%20e%20consuma%20API%20-%20Alura.pdf"><li>Python: avance na Orientação a Objetos e consuma API - 8 horas</li></a>
 
 
     
