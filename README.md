@@ -83,6 +83,10 @@
   <ul>
     <a href="https://github.com/VSRohod/certificados/blob/main/Udemy/figma%20design%20de%20interfaces%20do%20zero%20ao%20profissional.pdf"><li>Figma Design de interfaces do zero ao profissional - 13.5 horas</li></a>
   </ul>
+  <h4>DIO</h4>
+  <ul>
+    <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Bootcamps%20DIO%20Educação%20gratuita%20e%20empregabilidade%20Juntas!.pdf"><li>Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! - 1 hora</li></a>
+  </ul>
   <h4>ADOBE</h4>
   <ul>
     <a href="https://github.com/VSRohod/certificados/blob/main/Adobe/adobe-aca-en-diseno-visual-usando-photoshop.pdf"><li>Adobe ACP em visual design usando photoshop - 12 horas</li></a>
