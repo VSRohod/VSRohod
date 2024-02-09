@@ -86,6 +86,7 @@
   <h4>DIO</h4>
   <ul>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Bootcamps%20DIO%20Educação%20gratuita%20e%20empregabilidade%20Juntas!.pdf"><li>Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! - 1 hora</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Conceitos%20Fundamentais%20de%20IA.pdf"><li>Conceitos Fundamentais de IA - 1 hora</li></a>
   </ul>
   <h4>ADOBE</h4>
   <ul>
