@@ -11,6 +11,7 @@
 
 <h2>LISTAS DE REPOSITÓRIOS</h2>
 <ul>
+  <a href="https://github.com/stars/VSRohod/lists/melhores-projetos"><li>Melhores Projetos ✨</li></a>
   <a href="https://github.com/stars/VSRohod/lists/ws2021-2022"><li>Projetos da WorldSkills 🗺️</li></a>
   <a href="https://github.com/stars/VSRohod/lists/games"><li>Projetos de jogos 🎮</li></a>
   <a href="https://github.com/stars/VSRohod/lists/escola"><li>Repositórios de escola (Professor) 👨‍🏫</li></a>
