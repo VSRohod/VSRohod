@@ -92,6 +92,8 @@
   <ul>
     <h5>Lógica de Programação</h5>
       <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Lógica%20de%20programação/Victor%20Santos%20Rohod%20-%20Curso%20Lógica%20de%20programação_%20mergulhe%20em%20programação%20com%20JavaScript%20-%20Alura.pdf"><li>Lógica de programação: mergulhe em programação com JavaScript - 6 horas</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Lógica%20de%20programação/Victor%20Santos%20Rohod%20-%20Curso%20Lógica%20de%20programação_%20explore%20funções%20e%20listas%20-%20Alura.pdf"><li>Lógica de programação: explore funções e listas - 6 horas</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Lógica%20de%20programação/Victor%20Santos%20Rohod%20-%20Curso%20Git%20e%20GitHub_%20compartilhando%20e%20colaborando%20em%20projetos%20-%20Alura.pdf"><li>Git e GitHub: compartilhando e colaborando em projetos - 8 horas</li></a>
       <br>
     <h5>Javascript</h5>
       <a href="https://github.com/VSRohod/certificados/blob/main/Alura/Javascript/Victor%20Santos%20Rohod%20-%20Curso%20EcmaScript%208%20e%209_%20novas%20formas%20de%20escrever%20em%20JavaScript%20-%20Alura.pdf"><li>EcmaScript 8 e 9: novas formas de escrever em JavaScript - 6 horas</li></a>
