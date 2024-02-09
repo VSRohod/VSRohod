@@ -75,22 +75,28 @@
   <h2>CERTIFICADOS</h2>
   <h4>SENAI</h4>
   <ul>
+    <h5>WorldSkills</h5>
     <a href="https://github.com/VSRohod/certificados/blob/main/SENAI/Tecnologia%20WEB.jpeg"><li>Seletiva WorldSkills 2022 - Ocupação Tecnologias Web, Competidor</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/SENAI/Web%20Design%20frente.jpeg"><li>Web Design seletiva WorldSkills 2021 - 1020 horas</li></a>
+    <h5>PHP</h5>
     <a href="https://github.com/VSRohod/certificados/blob/main/SENAI/Desenvolvedor%20PHP%20%20frente.jpeg"><li>Desenvolvedor PHP - 200 horas</li></a>
   </ul>
   <h4>UDEMY</h4>
   <ul>
+    <h5>Figma</h5>
     <a href="https://github.com/VSRohod/certificados/blob/main/Udemy/figma%20design%20de%20interfaces%20do%20zero%20ao%20profissional.pdf"><li>Figma Design de interfaces do zero ao profissional - 13.5 horas</li></a>
   </ul>
   <h4>DIO</h4>
   <ul>
+    <h5>Microsoft Azure AI Fundamentals</h5>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Bootcamps%20DIO%20Educação%20gratuita%20e%20empregabilidade%20Juntas!.pdf"><li>Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! - 1 hora</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Conceitos%20Fundamentais%20de%20IA.pdf"><li>Conceitos Fundamentais de IA - 1 hora</li></a>
   </ul>
   <h4>ADOBE</h4>
   <ul>
+    <h5>Photoshop</h5>
     <a href="https://github.com/VSRohod/certificados/blob/main/Adobe/adobe-aca-en-diseno-visual-usando-photoshop.pdf"><li>Adobe ACP em visual design usando photoshop - 12 horas</li></a>
+    <h5>Illustrator</h5>
     <a href="https://github.com/VSRohod/certificados/blob/main/Adobe/adobe-aca-en-diseno-grafico-e-ilustracion-usando-illustrator.pdf"><li>Adobe ACP em visual design gráfico e ilustração usando o illustrator</li></a>
   </ul>
   <h4>ALURA</h4>
