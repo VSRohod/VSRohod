@@ -95,6 +95,7 @@
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20github.pdf"><li>Contribuindo em um Projeto Open Source no github - 1 hora</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Desafios%20de%20Projetos%20Crie%20Um%20Portfólio%20Vencedor.pdf"><li>Desafios de Projetos Crie Um Portfólio Vencedor - 1 hora</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Versionamento%20de%20Código%20com%20Git%20e%20GitHub.pdf"><li>Versionamento de Código com Git e GitHub - 2 hora</li></a>
+     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Desafios%20de%20Código%20Aperfeiçoe%20sua%20lógica%20e%20pensamento%20computacional.pdf"><li>Desafios de Código Aperfeiçoe sua lógica e pensamento computacional - 1 hora</li></a>
   </ul>
   <h3>🖌️ADOBE</h3>
   <ul>
