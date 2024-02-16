@@ -90,12 +90,16 @@
   <h3>🔷DIO</h3>
   <ul>
     <h5>Microsoft Azure AI Fundamentals</h5>
+    <h4><a href="https://github.com/VSRohod/certificados/blob/main/DIO/Princípios%20de%20IA%20e%20Desenvolvimento%20de%20Software.pdf">🏅Módulo ➡️ Princípios de IA e Desenvolvimento de Software - 10 horas</a></h4>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Bootcamps%20DIO%20Educação%20gratuita%20e%20empregabilidade%20Juntas!.pdf"><li>Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! - 1 hora</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Conceitos%20Fundamentais%20de%20IA.pdf"><li>Conceitos Fundamentais de IA - 1 hora</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20github.pdf"><li>Contribuindo em um Projeto Open Source no github - 1 hora</li></a>
     <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Desafios%20de%20Projetos%20Crie%20Um%20Portfólio%20Vencedor.pdf"><li>Desafios de Projetos Crie Um Portfólio Vencedor - 1 hora</li></a>
-    <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Versionamento%20de%20Código%20com%20Git%20e%20GitHub.pdf"><li>Versionamento de Código com Git e GitHub - 2 hora</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Versionamento%20de%20Código%20com%20Git%20e%20GitHub.pdf"><li>Versionamento de Código com Git e GitHub - 2 horas</li></a>
      <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Desafios%20de%20Código%20Aperfeiçoe%20sua%20lógica%20e%20pensamento%20computacional.pdf"><li>Desafios de Código Aperfeiçoe sua lógica e pensamento computacional - 1 hora</li></a>
+    <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Aula%20Inaugural%20-%20Microsoft%20Azure%20AI%20Fundamentals.pdf"><li>Aula Inaugural - Microsoft Azure AI Fundamentals - 2 horas</li></a>
+    <br>
+    <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Fundamentos%20do%20Aprendizado%20de%20Máquina.pdf"><li>Fundamentos do Aprendizado de Máquina - 1 hora</li></a>
   </ul>
   <h3>🖌️ADOBE</h3>
   <ul>
