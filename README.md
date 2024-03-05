@@ -2,6 +2,7 @@
 <ul>
   <li>🇧🇷 Ex-competidor da WorldSkills 2021\2022 #017 - Web Design </li>
   <li>👨‍🏫 Instrutor de Front-End SENAI (Desde 25/07/2022)</li>
+  Um trem muito bom
 </ul>
 
 <div align="center">
