@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![IMG-20220211-WA0000](https://github.com/VSRohod/VSRohod/assets/89645335/8c98e1f3-f42e-4891-ba09-af8bca6225c3)
+<!--![IMG-20220211-WA0000](https://github.com/VSRohod/VSRohod/assets/89645335/8c98e1f3-f42e-4891-ba09-af8bca6225c3) -->
 </div>
 
 <h2>LISTAS DE REPOSITÓRIOS</h2>
