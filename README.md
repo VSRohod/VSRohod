@@ -16,6 +16,7 @@
   <a href="https://github.com/stars/VSRohod/lists/games"><li>Projetos de jogos 🎮</li></a>
   <a href="https://github.com/stars/VSRohod/lists/escola"><li>Repositórios de escola (Professor) 👨‍🏫</li></a>
   <a href="https://github.com/stars/VSRohod/lists/estudos-cursos"><li>Repositórios de estudos 📚</li></a>
+  <a href="https://github.com/stars/VSRohod/lists/diobootcamps"><li>Repositórios de BootCamp da DIO 📚</li></a>
 </ul>
 
 <div align="center">
