@@ -112,29 +112,23 @@
         <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Versionamento%20de%20C%C3%B3digo%20com%20Git%20e%20GitHub.pdf"><li>Versionamento de Código com Git e GitHub - 2 horas</li></a>
         <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Desafios%20de%20C%C3%B3digo%20Aperfei%C3%A7oe%20sua%20l%C3%B3gica%20e%20pensamento%20computacional.pdf"><li>Desafios de Código Aperfeiçoe sua lógica e pensamento computacional - 1 hora</li></a>
         <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Aula%20Inaugural%20-%20Microsoft%20Azure%20AI%20Fundamentals.pdf"><li>Aula Inaugural - Microsoft Azure AI Fundamentals - 2 horas</li></a>
-    <br>
     <h4><a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Introdu%C3%A7%C3%A3o%20ao%20Aprendizado%20de%20M%C3%A1quina.pdf">🏅Módulo ➡️ Introdução ao Aprendizado de Máquina - 2 horas</a></h4>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Fundamentos%20do%20Aprendizado%20de%20M%C3%A1quina.pdf"><li>Fundamentos do Aprendizado de Máquina - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML.pdf"><li>Trabalhando com Machine Learning na Prática no Azure ML - 1 hora</li></a>
-    <br>
     <h4><a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Trabalhando%20com%20Vis%C3%A3o%20Computacional.pdf">🏅Módulo ➡️ Trabalhando com Visão Computacional - 2 horas</a></h4>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Conceitos%20de%20Vis%C3%A3o%20Computacional.pdf"><li>Conceitos de Visão Computacional - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML.pdf"><li>Reconhecimento Facial e transformação de imagens em Dados no Azure ML - 1 hora</li></a>
-    <br>
     <h4><a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Processamento%20de%20Linguagem%20Natural.pdf">🏅Módulo ➡️ Processamento de Linguagem Natural - 2 horas</a></h4>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Conceitos%20de%20Processamento%20de%20Linguagem%20Natural.pdf"><li>Conceitos de Processamento de Linguagem Natural - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/An%C3%A1lise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20AI.pdf"><li>Análise de Sentimentos com Language Studio no Azure AI - 1 hora</li></a>
-    <br>
     <h4><a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Intelig%C3%AAncia%20de%20Documentos%20e%20Minera%C3%A7%C3%A3o%20de%20Conhecimento.pdf">🏅Módulo ➡️ Inteligência de Documentos e Mineração de Conhecimento - 2 horas</a></h4>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Intelig%C3%AAncia%20de%20Documentos%20de%20IA%20do%20Azure.pdf"><li>Inteligência de Documentos de IA do Azure - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Azure%20Cognitive%20Search%20Utilizando%20AI%20Search%20para%20indexa%C3%A7%C3%A3o%20e%20consulta%20de%20Dados.pdf"><li>Azure Cognitive Search Utilizando AI Search para indexação e consulta de Dados - 1 hora</li></a>
-    <br>
     <h4><a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Trabalhando%20com%20IA%20Generativa.pdf">🏅Módulo ➡️ Trabalhando com IA Generativa - 4 horas</a></h4>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Fundamentos%20da%20IA%20Generativa.pdf"><li>Fundamentos da IA Generativa - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Fundamentos%20do%20Servi%C3%A7o%20Azure%20OpenAI.pdf"><li>Fundamentos do Serviço Azure OpenAI - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Explorando%20os%20Recursos%20de%20IA%20Generativa%20com%20Copilot%20e%20OpenAI.pdf"><li>Explorando os Recursos de IA Generativa com Copilot e OpenAI - 1 hora</li></a>
       <a href="https://github.com/VSRohod/certificados/blob/main/DIO/Microsoft%20Azure%20AI%20Fundamentals/Avalie%20este%20Bootcamp.pdf"><li>Avalie este Bootcamp - 1 hora</li></a>
-    <br>
   </ul>
   <h3>🖌️ADOBE</h3>
   <ul>
