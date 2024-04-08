@@ -17,15 +17,6 @@
   <a href="https://github.com/stars/VSRohod/lists/escola"><li>Repositórios de escola (Professor) 👨‍🏫</li></a>
   <a href="https://github.com/stars/VSRohod/lists/estudos-cursos"><li>Repositórios de estudos 📚</li></a>
   <a href="https://github.com/stars/VSRohod/lists/diobootcamps"><li>Repositórios de BootCamp da DIO 📚</li></a>
-  Lista de repositórios da DIO para a solução de exercícios
-    <h5>🌟Azure:</h5>
-  <ul>
-    <li>🟢DIOMachineLearningAZureMl</li>
-    <li>🔴DIOReconhecimentoFacialAzure</li>
-    <li>🔴DIOAnaliseDeSentimentosComLanguageStudioaAzure</li>
-    <li>🔴DIOAzureCognitiveSearch</li>
-    <li>🔴DIOExplorandoOsRecursosDeIAGenerativaComCopiloteOpenAI</li>
-  </ul>
 </ul>
 
 <div align="center">
