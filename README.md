@@ -68,20 +68,6 @@
 </div>
   <br>
 <div>
-  <h2>Linguagens e Frameworks</h2>
-  <img src=https://progress-bar.dev/90?title=HTML />
-  <img src=https://progress-bar.dev/90?title=CSS />
-  <img src=https://progress-bar.dev/70?title=JAVASCRIPT />
-  <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
-  <img src=https://progress-bar.dev/20?title=REACT  />
-  <img src=https://progress-bar.dev/40?title=ANGULAR  />
-  <img src=https://progress-bar.dev/40?title=LARAVEL  />
-  <img src=https://progress-bar.dev/70?title=PHP  />
-  <img src=https://progress-bar.dev/50?title=SQL  />
-  <img src=https://progress-bar.dev/60?title=PYTHON  />
-  <img src=https://progress-bar.dev/40?title=DJANGO  />
-  <img src=https://progress-bar.dev/20?title=C#  />
-</div>
 
  ![bar](https://github.com/user-attachments/assets/12d42959-6e14-443a-a8e1-51e63f0a8e61)
 
