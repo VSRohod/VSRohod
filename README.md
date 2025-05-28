@@ -6,7 +6,7 @@
 
 <ul>
   <li>🇧🇷 Ex-competidor da WorldSkills 2021\2022 #017 - Web Design - Representando DF</li>
-  <li>👨‍🏫 Instrutor de Front-End SENAI (Desde 25/07/2022)</li>
+  <li>👨‍🏫 Instrutor do SENAI (Desde 25/07/2022)</li>
 </ul>
 
 <div align="center">
