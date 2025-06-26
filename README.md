@@ -1,7 +1,3 @@
-![bar](https://github.com/user-attachments/assets/9275417d-df89-40ae-8b28-3687d85cd8d9)
-
-![banner](https://github.com/user-attachments/assets/fb24db7e-b019-448b-a9b3-14e059a0ecd9)
-
 ![bar](https://github.com/user-attachments/assets/3078cae2-62ba-4711-8aa0-b501c80691e6)
 
 <ul>
