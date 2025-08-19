@@ -1,7 +1,7 @@
 ![bar](https://github.com/user-attachments/assets/3078cae2-62ba-4711-8aa0-b501c80691e6)
 
 <ul>
-  <li>🇧🇷 Ex-competidor da WorldSkills 2021\2022 #017 - Web Design - Representando DF</li>
+  <li>🇧🇷 Ex-competidor da WorldSkills 2021\2022 #017 - Web Design - Representando DF (4º lugar) </li>
   <li>👨‍🏫 Instrutor do SENAI (Desde 25/07/2022)</li>
 </ul>
 
